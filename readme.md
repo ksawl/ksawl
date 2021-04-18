@@ -5,9 +5,9 @@
 ***
 
 <!-- MENU -->
-**[Download PDF]()** || 
+**[Download PDF](https://github.com/ksawl/ksawl/Serhii_Karavashkin_Frontend_React_Developer.pdf)** || 
 **[Portfolio](https://github.com/ksawl/Portfolio)** || 
-**[Experience](https://docs.google.com/document/u/0/d/1VWRV5xBxl3iZlonMVAOLIcIhz76MixXsLKc8JsjYbqA/edit)** || 
+**[Experience](https://github.com/ksawl/)** || 
 **[]()**
 ***
 
