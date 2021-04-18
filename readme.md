@@ -33,8 +33,10 @@
 - Adobe Photoshop, Avocode, Figma
 ***
 
-### PROJECTS:
+![summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ksawl)
+***
 
+### PROJECTS:
 - **React Tic Tac Toe** 
     - React.js, Redux, Heroku
     - Github: https://github.com/ksawl/show.react.tic_tac_toe
@@ -57,7 +59,7 @@
 
 **~2010 — now**  
     *Freelance - Full-stack Developer*
-- More than 50 business projects, [some details](https://docs.google.com/document/u/0/d/1VWRV5xBxl3iZlonMVAOLIcIhz76MixXsLKc8JsjYbqA/edit).
+- More than 50 business projects, some details on [Experience](https://github.com/ksawl/ksawl/blob/master/experience.md).
 - PHP, MySQL, JS, jQuery, HTML, CSS, Bootstrap, UX/UI, phpMyAdmin, FTP, SSH, SSL, Photoshop, SVG, Figma, customer communication, Тесhnical Assignment create.
 - WordPress, OpenCart (OCStore), Codeigniter &etc;
 - Cpanel, DirectAdmin, ISPconfig
