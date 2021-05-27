@@ -59,6 +59,7 @@
 
 **april 2021 — now**  
     *[Backendless Corp](https://backendless.com/) - Frontend Developer*
+    
 **~2010 — april 2021**  
     *Freelance - Full-stack Developer*
 - More than 50 business projects, some details on [Experience](https://github.com/ksawl/ksawl/blob/master/experience.md).
