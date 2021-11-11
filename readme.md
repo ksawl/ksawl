@@ -37,6 +37,10 @@
 ***
 
 ### PROJECTS:
+- **React Chat** 
+    - React.js, Firebase
+    - Github: https://github.com/ksawl/show.chat
+    - Demo: https://show-chat-8bd23.web.app/chat
 - **React Tic Tac Toe** 
     - React.js, Redux, Heroku
     - Github: https://github.com/ksawl/show.react.tic_tac_toe
