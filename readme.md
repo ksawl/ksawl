@@ -16,7 +16,7 @@
 **E-mail:** serhii.karavashkin@gmail.com  
 **Skype:** sergiy_karavashkin  
 **LinkedIn:** [https://www.linkedin.com/in/serhii-karavashkin/](https://www.linkedin.com/in/serhii-karavashkin/)  
-**Location:** Repki, Chernihiv region, Ukraine (not ready for relocate)  
+**Location:** Ripky, Chernihiv region, Ukraine (not ready for relocate)  
 **Languages:** Russian (native), English (pre-intermediate, weak spoken)  
 ***
 
@@ -25,7 +25,7 @@
 - React, Redux;
 - Javascript ES6+, jQuery, AJAX, Axios, fetch;
 - HTML, HTML5;
-- CSS3, SaSS, UI library (Bootstrap 4, Ant Design, Material-UI), adaptive and responsive - layout, UX/UI, accessibility;
+- CSS3, SaSS, Less, UI library (Bootstrap 4, Ant Design, Material-UI), adaptive and responsive - layout, UX/UI, accessibility;
 - SVG-animations;
 - Webpack 4, Gulp;
 - RESTful API, GraphQL;
@@ -62,7 +62,7 @@
 ### SUMMARY EXPERIENCE:
 
 **april 2021 — now**  
-    *[Backendless Corp](https://backendless.com/) - Frontend Developer*
+    *[Backendless Corp.](https://backendless.com/) - Frontend Developer*
     
 **~2010 — april 2021**  
     *Freelance - Full-stack Developer*
