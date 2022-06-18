@@ -11,12 +11,12 @@
 ***
 
 <!-- CONTACTS -->
-**Phone / Viber / Telegram:** +38 (099) 40-10-732
-**E-mail:** serhii.karavashkin@gmail.com
-**Skype:** sergiy_karavashkin
-**LinkedIn:** [https://www.linkedin.com/in/serhii-karavashkin/](https://www.linkedin.com/in/serhii-karavashkin/)
-**Location:** Dnipro, Ukraine (not ready for relocate)
-**Languages:** Russian (native), English (pre-intermediate, weak spoken)
+- **Phone / Viber / Telegram:** +38 (099) 40-10-732
+- **E-mail:** serhii.karavashkin@gmail.com
+- **Skype:** sergiy_karavashkin
+- **LinkedIn:** [https://www.linkedin.com/in/serhii-karavashkin/](https://www.linkedin.com/in/serhii-karavashkin/)
+- **Location:** Dnipro, Ukraine (not ready for relocate)
+- **Languages:** Russian (native), English (pre-intermediate, weak spoken)
 ***
 
 ### SKILLS AND KNOWLEDGE:
